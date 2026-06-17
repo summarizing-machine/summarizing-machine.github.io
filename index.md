@@ -1,45 +1,41 @@
 ---
 layout: home
-title: Thingking Machine
+title: Summarizing Machine
 ---
-# Thingking Machine
+# Summarizing Machine
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Summarizing-Machine (gemini)](https://summarizing-machine.github.io/gemini/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Summarizing-Machine (geminit)](https://summarizing-machine.github.io/geminit/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Summarizing-Machine (openai)](https://summarizing-machine.github.io/openai/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Summarizing-Machine (oaio)](https://summarizing-machine.github.io/oaio/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Summarizing-Machine (grok)](https://summarizing-machine.github.io/grok/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Summarizing-Machine (grokf)](https://summarizing-machine.github.io/grokf/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Summarizing-Machine (grokc)](https://summarizing-machine.github.io/grokc/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Summarizing-Machine (fireworks)](https://summarizing-machine.github.io/fireworks/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Summarizing-Machine (fireworksr)](https://summarizing-machine.github.io/fireworksr/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Summarizing-Machine (fireworkc)](https://summarizing-machine.github.io/fireworkc/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Summarizing-Machine (depsek)](https://summarizing-machine.github.io/depsek/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Summarizing-Machine (depsekc)](https://summarizing-machine.github.io/depsekc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Summarizing-Machine (depsekr)](https://summarizing-machine.github.io/depsekr/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
-
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
-
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Summarizing-Machine (depsekrp)](https://summarizing-machine.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Summarizing-Machine is just one of participants of the [Multilogue](multilogue)

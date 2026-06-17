@@ -1,1 +1,1 @@
-### Thingking Machine
+### Summarizing Machine
